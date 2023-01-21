@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on:- **A Web App For expenditure management on React **
+- 🔭 I’m currently working on:- ** Making a web app for managing my tasks.**
 
 - 🌱 I’m currently learning:- **React.js and Figma**
 
