@@ -31,5 +31,5 @@
 
   <p align="left">&nbsp<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikkibum&theme=dracula" />
 </p>
-
+![Snake animation](https://github.com/chikkibum/chikkibum/blob/output/github-contribution-grid-snake.svg)
 
