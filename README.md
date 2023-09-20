@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on:- ** Making a web app for managing my tasks.**
 
-- 🌱 I’m currently learning:- **React.js and nest.js**
+- 🌱 I’m currently learning:- **React.js and node.js**
 
 - 📫 How to reach me:- **bhaskarpandeycontacts@gmail.com**
 
