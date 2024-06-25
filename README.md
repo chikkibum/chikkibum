@@ -115,12 +115,11 @@ I'm a passionate Full-Stack Web Developer who turns imaginations into beautiful 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chikkibum&theme=radical)
 
-## 🔝 Most Used Languages
 
-## 📌 Pinned Repositories
+<!--## 📌 Pinned Repositories
 
 [![Perfect-threads](https://github-readme-stats.vercel.app/api/pin/?username=chikkibum&repo=Perfect-threads&theme=radical)](https://github.com/chikkibum/Perfect-threads)
-
+-->
 ## 📝 Latest Blog Posts
 
 - [Mastering JavaScript Closures: A Deep Dive](https://medium.com/@bhaskar-pandey/mastering-javascript-closures-a-deep-dive-3e347d95aea8)
